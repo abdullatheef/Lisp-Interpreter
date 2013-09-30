@@ -1,10 +1,3 @@
-################ Lispy: Scheme Interpreter in Python
-
-## (c) Peter Norvig, 2010; See http://norvig.com/lispy.html
-
-################ Symbol, Env classes
-
-from __future__ import division
 
 Symbol = str
 
